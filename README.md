@@ -1,6 +1,8 @@
-# YouTube_Data_Harvesting_and_Warehousing
+# PROJECT TITLE : YouTube Data Harvesting and  Warehousing
 
-Skills take away From This Project : Python scripting, Data Collection, MongoDB, Streamlit, API integration, Data Management using MongoDB (Atlas) and SQL.
+# SKILLS TAKE AWAY FROM THIS PROJECT : Python scripting, Data Collection, MongoDB, Streamlit, API integration, Data Management using MongoDB (Atlas) and SQL.
+
+# PROJECT DESCRIPTION : Developed a Youtube Data analysis application using Python,MongoDB,SQL, and Streamlit, integrating Google API for efficient data retrievel,storage and analysis.
 
 Set up a Streamlit App: Create a Streamlit application with a user interface allowing input of YouTube channel IDs.
 Connect to the YouTube API: Use the Google API client library to make requests to the YouTube API, retrieving channel details and video information based on the provided channel ID.
